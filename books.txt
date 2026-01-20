@@ -6,7 +6,7 @@ The Catcher in the Rye|9780316769480|3
 The Hobbit|9780547928227|1
 Fahrenheit 451|9781451673319|3
 Moby Dick|9781503280786|2
-War and Peace|9780199232765|0
+War and Peace|9780199232765|6
 Hamlet|9780743477123|5
 Brave New World|9780060850524|6
 Crime and Punishment|9780140449136|2
@@ -28,4 +28,3 @@ The Picture of Dorian Gray|9780141439570|3
 The Count of Monte Cristo|9780140449266|5
 The Sound and the Fury|9780679732242|2
 Heart of Darkness|9780486264646|6
-wawa|123|2

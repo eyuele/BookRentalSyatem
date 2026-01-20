@@ -36,9 +36,10 @@
               "RelativeDocumentMoniker": "Rental.txt",
               "ToolTip": "C:\\Users\\eyuel\\OneDrive\\Desktop\\CPP\\BookRentalSystem\\Rental.txt",
               "RelativeToolTip": "Rental.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-01-18T23:17:05.52Z"
+              "WhenOpened": "2026-01-18T23:17:05.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,9 +49,10 @@
               "RelativeDocumentMoniker": "books.txt",
               "ToolTip": "C:\\Users\\eyuel\\OneDrive\\Desktop\\CPP\\BookRentalSystem\\books.txt",
               "RelativeToolTip": "books.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-01-18T21:13:14.743Z"
+              "WhenOpened": "2026-01-18T21:13:14.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,9 +62,10 @@
               "RelativeDocumentMoniker": "main.h",
               "ToolTip": "C:\\Users\\eyuel\\OneDrive\\Desktop\\CPP\\BookRentalSystem\\main.h",
               "RelativeToolTip": "main.h",
-              "ViewState": "AgIAAJYBAAAAAAAAAAAUwKMBAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-01-11T10:27:18.851Z"
+              "WhenOpened": "2026-01-11T10:27:18.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -72,7 +75,7 @@
               "RelativeDocumentMoniker": "BookRental.cpp",
               "ToolTip": "C:\\Users\\eyuel\\OneDrive\\Desktop\\CPP\\BookRentalSystem\\BookRental.cpp",
               "RelativeToolTip": "BookRental.cpp",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAowO0AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAANgAAAAAAAAAAADwv/IAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-11T10:18:48.113Z",
               "EditorCaption": ""

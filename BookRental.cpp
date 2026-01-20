@@ -231,8 +231,8 @@ void BookReturn(Book& BookInventory, User& user, processRental& rental, NodeList
 	std::cin >> UserID;
 
 	if (std::cin.fail()) {
-		std::cin.ignore(10000, '\n');
 		std::cin.clear();
+		std::cin.ignore(10000, '\n');
 		std::cout << "Please Enter A valid ID.\n";
 		Exists = true;
 	}

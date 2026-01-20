@@ -156,6 +156,12 @@ public:
 		while (true) {
 			std::cout << "Enter The Current Year (YYYY): ";
 			std::cin >> year;
+			if (std::cin.fail()) {
+				std::cin.clear();
+				std::cin.ignore(10000, '\n');
+				std::cout << "Invalid input. Please enter a valid day.\n";
+				continue;
+			}
 			if (year < 2025) {
 				std::cout << "Please Enter The Current date\n";
 				continue;
@@ -175,8 +181,9 @@ public:
 			std::cout << "Enter Day (DD): ";
 			std::cin >> day;
 			if (std::cin.fail()) {
-				std::cin.ignore(10000, '\n');
 				std::cin.clear();
+				std::cin.ignore(10000, '\n');
+				std::cout << "Invalid input. Please enter a valid day.\n";
 				continue;
 			}
 
